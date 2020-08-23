@@ -27,3 +27,4 @@
 | Your Coding Companion    | https://www.youtube.com/channel/UCZxRTvHyN2l9qFdckkdp1jQ      | https://twitter.com/YourCodingComp      |---------|
 | Ayush Kumar Agarwal         | https://www.youtube.com/channel/UC1V9X5_JRu9C2Ftth7cZvWw |https://twitter.com/its_ayush24   |---------|
 | Francesco Ciulla| https://www.youtube.com/c/FrancescoCiulla|https://twitter.com/FrancescoCiull4|---------|
+| Simon Høiberg | https://www.youtube.com/c/SimonHoiberg | https://twitter.com/SimonHoiberg | Tech, Business, Startup |
